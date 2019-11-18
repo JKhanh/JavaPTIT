@@ -1,5 +1,5 @@
 
-package iodemo;
+package JavaPTIT.iodemo;
 //doc
 import java.io.ObjectInputStream;
 import java.io.FileInputStream;

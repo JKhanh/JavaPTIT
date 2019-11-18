@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package iodemo;
+package JavaPTIT.iodemo;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,7 +16,7 @@ public class SachObjectFrom extends javax.swing.JFrame {
     
     public SachObjectFrom() {
         initComponents();
-        filename="src/iodemo/sach1.txt";
+        filename="C:\\Users\\aatal\\Documents\\NetBeansProjects\\Java9_10\\src\\main\\java\\JavaPTIT\\iodemo\\sach1.txt";
         String[] cols={"Ma","Ten sach","So luong","Gia"};
         tm=new DefaultTableModel(cols, 0);
         jTable1.setModel(tm);

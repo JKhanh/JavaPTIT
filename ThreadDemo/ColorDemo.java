@@ -1,5 +1,5 @@
 
-package threaddemo;
+package JavaPTIT.ThreadDemo;
 
 import java.awt.Color;
 import java.util.ArrayList;

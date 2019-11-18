@@ -1,5 +1,5 @@
 
-package iodemo;
+package JavaPTIT.iodemo;
 import java.io.Serializable;
 
 public class Sach implements Serializable{

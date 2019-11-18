@@ -1,8 +1,8 @@
 
-package threaddemo;
+package JavaPTIT.ThreadDemo;
 
 
-public class Main {
+public class Main_1 {
     public static void main(String[] args) {
         System.out.println("Start Main");
         for (int i = 0; i < 4; i++) {
@@ -26,7 +26,7 @@ public class Main {
                 System.out.println(e);
             }
          //run Runnable
-         RunableDemo r=new RunableDemo();
+         RunnableDemo r=new RunnableDemo();
          Thread t1=new Thread(r);
          t1.start();
          

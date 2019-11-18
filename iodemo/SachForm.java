@@ -1,5 +1,5 @@
 
-package iodemo;
+package JavaPTIT.iodemo;
 import javax.swing.table.DefaultTableModel;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
